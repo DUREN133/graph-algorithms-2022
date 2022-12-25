@@ -1,0 +1,28 @@
+DIRECTED 11
+ 15
+c797fb61-b2ba-4ab4-8dea-06d707a59522 gray null null 216 356
+e9d5c13c-91d5-4066-908a-f2e106e14214 gray null null 515 406
+fc79e829-6e96-454c-b2f8-00e798f5c223 gray null null 165 107
+e0da79e5-44a0-4ef5-8b53-9c3f929e12b0 gray null null -6 374
+3084c257-ad66-4414-9135-289f21ce93e9 gray null null 215 509
+8d98a2d9-4ed5-4bb6-930d-efa8c728384a gray null null 501 551
+c246ac0e-c59f-4b3d-ae14-74e63c162ce0 gray null null 683 313
+13373c20-4cdf-4cef-8ac4-4a2971934eb0 gray null null 766 603
+5eb2e336-3495-40bc-915d-9c63bbea04b7 gray null null 521 213
+0c4514a6-9b71-4b4e-8437-ca88bc3e0181 gray null null 707 155
+3dc16b97-de49-4f4a-bd31-332a650e6aad gray null null 433 73
+e0da79e5-44a0-4ef5-8b53-9c3f929e12b0 fc79e829-6e96-454c-b2f8-00e798f5c223 gray null null 
+e0da79e5-44a0-4ef5-8b53-9c3f929e12b0 c797fb61-b2ba-4ab4-8dea-06d707a59522 gray null null 
+e0da79e5-44a0-4ef5-8b53-9c3f929e12b0 3084c257-ad66-4414-9135-289f21ce93e9 gray null null 
+e0da79e5-44a0-4ef5-8b53-9c3f929e12b0 e9d5c13c-91d5-4066-908a-f2e106e14214 gray null null 
+e0da79e5-44a0-4ef5-8b53-9c3f929e12b0 8d98a2d9-4ed5-4bb6-930d-efa8c728384a gray null null 
+e0da79e5-44a0-4ef5-8b53-9c3f929e12b0 3dc16b97-de49-4f4a-bd31-332a650e6aad gray null null 
+fc79e829-6e96-454c-b2f8-00e798f5c223 3dc16b97-de49-4f4a-bd31-332a650e6aad gray null null 
+c797fb61-b2ba-4ab4-8dea-06d707a59522 5eb2e336-3495-40bc-915d-9c63bbea04b7 gray null null 
+3dc16b97-de49-4f4a-bd31-332a650e6aad 5eb2e336-3495-40bc-915d-9c63bbea04b7 gray null null 
+3dc16b97-de49-4f4a-bd31-332a650e6aad 0c4514a6-9b71-4b4e-8437-ca88bc3e0181 gray null null 
+0c4514a6-9b71-4b4e-8437-ca88bc3e0181 c246ac0e-c59f-4b3d-ae14-74e63c162ce0 gray null null 
+13373c20-4cdf-4cef-8ac4-4a2971934eb0 e9d5c13c-91d5-4066-908a-f2e106e14214 gray null null 
+8d98a2d9-4ed5-4bb6-930d-efa8c728384a e9d5c13c-91d5-4066-908a-f2e106e14214 gray null null 
+3084c257-ad66-4414-9135-289f21ce93e9 8d98a2d9-4ed5-4bb6-930d-efa8c728384a gray null null 
+e9d5c13c-91d5-4066-908a-f2e106e14214 c246ac0e-c59f-4b3d-ae14-74e63c162ce0 gray null null 
