@@ -1,0 +1,5 @@
+UNDIRECTED 2
+ 1
+dab3fdc7-6389-4c8d-b67d-e4e9fdf0ca80 red null null 194 182
+1fc0a273-78e8-4994-bfe4-1d5cc6fbf4a9 red null null 367 180
+dab3fdc7-6389-4c8d-b67d-e4e9fdf0ca80 1fc0a273-78e8-4994-bfe4-1d5cc6fbf4a9 gray null null
